@@ -1,0 +1,1 @@
+This file is being used in the testing of SameFolder.java.
